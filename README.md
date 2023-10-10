@@ -28,7 +28,7 @@
   ```
 
   ## Usage
-  The README file Generator App shows: the name of the project, description, the type of license, its installation and contribution, and video tutorial for usage.
+  The README file Generator App shows: the name of the project, description, the type of license, its installation and contribution, and video tutorial for usage - watch here: https://www.loom.com/share/4b514583164e4934bfd798b5076f65e4?sid=81ca58cd-ff1f-48e4-8db4-4b63300cb012
 
   ## License
 
