@@ -1,9 +1,9 @@
-# Module 11
+# Module 11 - README file Generator
   ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
 
   ### Description
 
-  Welcome to the README file for the README Generator App. Below you will find important information about the app that generates strong README file, technologies used, and instructions on how to run or contrubute to the app
+  Welcome to the README file for the README Generator App. Below you will find important information about the app that generates strong README file, technologies used, and instructions on how to run or contribute to the app.
 
   ### Table of Contents
 
@@ -28,7 +28,7 @@
   ```
 
   ## Usage
-  The README file Generator App shows: the name of the project, description, the type of license and its installation.
+  The README file Generator App shows: the name of the project, description, the type of license, its installation and contribution, and video tutorial for usage.
 
   ## License
 
@@ -36,14 +36,14 @@
 
   ## Contributing
 
-  The team of collaborators: University of Burmingham students (Bootcamp)
+  The team of collaborators: University of Birmingham students (Bootcamp).
 
   ## Test
 
   To run tests, run following command:
 
   ```
-   Mit
+  MIT
   ```
   
   ## Questions
